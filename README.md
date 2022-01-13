@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**keerthiseetha1703/keerthiseetha1703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Keerthi !
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on finishing my MS in Software Engineering at Villanova University 
+- 🌱 I’m working as a Software Engineer at UHS of Delaware majorly building integrations and .net core based applications
+- 👯 I’m looking to collaborate on DataScience/ML based projects/learnings !
+
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/keerthiseethas/) [Email](keerthi_seetha@yahoo.com)
+
+
 -->
